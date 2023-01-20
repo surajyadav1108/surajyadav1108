@@ -10,9 +10,10 @@ I am Suraj, Student at the Maharaja Agrasen College, Delhi University[Mac.du](ht
 - 💬 Ask me about anything related to development and Artistic expression.
 - 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-yadav-b91701221/)](https://www.linkedin.com/in/ludehsar/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-harrypotter1108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrypotter1108@gmail.com)](mailto:mdraanik12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SurajYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-yadav-b91701221/)](https://www.linkedin.com/in/suraj-yadav-b91701221/)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-harrypotter1108@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harrypotter1108@gmail.com)](mailto:harrypotter1108@gmail.com)
 
 
 
