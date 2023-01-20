@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**surajyadav1108/surajyadav1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**surajyadav1108/surajyadav1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 I am Suraj, Student at the Maharaja Agrasen College, Delhi University[Mac.du](https://mac.du.ac.in). 
@@ -29,5 +29,9 @@ I am Suraj, Student at the Maharaja Agrasen College, Delhi University[Mac.du](ht
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajyadav1108.surajyadva1108)
+
+
 
