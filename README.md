@@ -5,7 +5,7 @@
 
 
 I am Suraj, Student at the Maharaja Agrasen College, Delhi University[Mac.du](https://mac.du.ac.in). 
-- 🔭 I’m currently working on different types of projects that from web domain
+- 🔭 I’m currently working on different types of projects from web domain
 - 🌱 I’m currently learning web development, cloud and DevOps technology
 - 💬 Ask me about anything related to development and Artistic expression.
 - 📫 How to reach me: ...
