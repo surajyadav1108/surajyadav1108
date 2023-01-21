@@ -31,6 +31,7 @@ I am Suraj, Student at the Maharaja Agrasen College, Delhi University[Mac.du](ht
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=surajyadav1108&show_icons=true&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajyadav1108.surajyadva1108)
 
