@@ -33,7 +33,7 @@ Hello there! 👋 I'm Suraj yadav, a passionate web developer and DevOps enthusi
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=surajyadav1108&show_icons=true&theme=gruvbox)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajyadav1108&show_icons=true&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajyadav1108.surajyadva1108)
 
