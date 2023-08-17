@@ -2,8 +2,7 @@
 
 <!--
 **surajyadav1108/surajyadav1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Hello there! 👋 I'm Suraj yadav, a passionate web developer and DevOps enthusiast on an exciting journey to learn and grow in the ever-evolving world of technology. This is my GitHub playground where I showcase my projects, experiments, and contributions to the open-source community.
+I'm Suraj yadav, a passionate web developer and DevOps enthusiast on an exciting journey to learn and grow in the ever-evolving world of technology. This is my GitHub playground where I showcase my projects, experiments, and contributions to the open-source community.
 - 🔭 I’m currently working on different types of projects from web domain
 - 🌱 I’m currently learning web development, cloud and DevOps technology
 - 💬 Ask me about anything related to development and Artistic expression.
